@@ -17,8 +17,11 @@ My work explores the intersection of GPU rendering, medical imaging, and interac
 ## **Technical Focus**
 
 **Graphics & GPU:** `OpenGL` `GLSL (Vertex/Fragment/Compute)` `GPU Instancing` `Real-time Rendering`
+
 **Medical Imaging:** `VTK` `DICOM Processing` `Volume Rendering` `3D Reconstruction`
+
 **Languages:** `C++` `Python` `Java` `C#` `Verilog`
+
 **Creative Tools:** `Blender` `Unity 3D` `After Effects` `Figma`
 
 ---
@@ -38,5 +41,5 @@ Completing my undergraduate thesis on **GPU-based medical visualization** and pr
 
 **Email:** [maryamsafdar.r@outlook.com](mailto:maryamsafdar.r@outlook.com)
 **LinkedIn:** [linkedin.com/in/maryamsafdar](#)
-**Creative Projects i  behance:** [[behance/MaryamSafdar](https://www.behance.net/maryamsafdar4)](#)
+**Creative Projects in  behance:** [[behance/MaryamSafdar](https://www.behance.net/maryamsafdar4)](#)
 

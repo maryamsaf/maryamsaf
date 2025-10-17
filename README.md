@@ -40,6 +40,6 @@ Completing my undergraduate thesis on **GPU-based medical visualization** and pr
 ---
 
 **Email:** [maryamsafdar.r@outlook.com](mailto:maryamsafdar.r@outlook.com)
-**LinkedIn:** [linkedin.com/in/maryamsafdar](#)
-**Creative Projects in  behance:** [[behance/MaryamSafdar](https://www.behance.net/maryamsafdar4)](#)
+**LinkedIn:** [[linkedin.com/in/maryamsafdar](https://www.linkedin.com/in/maryam-safdar-b09217252/)]
+**Creative Projects in  behance:** [[behance/MaryamSafdar](https://www.behance.net/maryamsafdar4)]
 

@@ -38,11 +38,5 @@ Completing my undergraduate thesis on **GPU-based medical visualization** and pr
 
 **Email:** [maryamsafdar.r@outlook.com](mailto:maryamsafdar.r@outlook.com)
 **LinkedIn:** [linkedin.com/in/maryamsafdar](#)
-**GitHub Projects:** [github.com/MaryamSafdar](#)
+**Creative Projects i  behance:** [[behance/MaryamSafdar](https://www.behance.net/maryamsafdar4)](#)
 
----
-
-Would you like me to add a **small tagline** under your name (for example:
-
-> *“Hardware-accelerated visualization researcher | Real-time GPU systems”*
-> to make it visually pop at the top like a professional portfolio)?
